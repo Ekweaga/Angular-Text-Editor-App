@@ -1,0 +1,51 @@
+[debug] [2021-11-29T13:17:31.293Z] ----------------------------------------------------------------------
+[debug] [2021-11-29T13:17:31.302Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\CHAX\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-11-29T13:17:31.303Z] CLI Version:   9.23.0
+[debug] [2021-11-29T13:17:31.304Z] Platform:      win32
+[debug] [2021-11-29T13:17:31.304Z] Node Version:  v14.18.1
+[debug] [2021-11-29T13:17:31.307Z] Time:          Mon Nov 29 2021 14:17:31 GMT+0100 (West Africa Standard Time)
+[debug] [2021-11-29T13:17:31.308Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-29T13:17:31.554Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-29T13:17:31.555Z] > authorizing via signed-in user (hikay133@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\CHAX\movella
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2021-11-29T14:14:13.068Z] ----------------------------------------------------------------------
+[debug] [2021-11-29T14:14:13.080Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\CHAX\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-11-29T14:14:13.085Z] CLI Version:   9.23.0
+[debug] [2021-11-29T14:14:13.085Z] Platform:      win32
+[debug] [2021-11-29T14:14:13.086Z] Node Version:  v14.18.1
+[debug] [2021-11-29T14:14:13.224Z] Time:          Mon Nov 29 2021 15:14:13 GMT+0100 (West Africa Standard Time)
+[debug] [2021-11-29T14:14:13.224Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-29T14:14:13.248Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-11-29T14:14:13.720Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-29T14:14:13.721Z] > authorizing via signed-in user (hikay133@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\CHAX\movella
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
